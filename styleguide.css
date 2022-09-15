@@ -1,0 +1,105 @@
+:root {
+
+    --black: rgba(0, 0, 0, 1); --navy-blue: Orgba(2, 0, 121, 1);
+    
+    -dove-gray: rgba(112, 112, 112, 1);
+    
+    romance:rgba(255, 252, 252, 1);
+    
+    --white: rgba(255, 255, 255, 1);
+    
+    --font-size-xs: 23.7px;
+    
+    --font-size-s: 25px;
+    
+    --font-size-m: 36px;
+    
+    --font-size-1: 48px;
+    
+    --font-size-x1: 58.7px; 
+    --font-size-xx1: 64px;
+    
+    --font-size-xxx1: 71.3px;
+    
+    --font-family-aleo: = Aleo;
+    
+    --font-family-inria_sans: "Inria Sans";
+    
+    --font-family-jacques_francois: "Jacques Francois";
+    
+    --font-family-karma: "Karma";
+    
+    --font-family-kurale: "Kurale";
+    
+    --font-family-kyivtype-sans-heavy-: "KyivType Sans-Heavy-"; 
+    --font-family-lateef: "Lateef";
+    
+}
+    .jacquesfrancois-normal-black-23-7px {
+    
+    color: var(--black);
+    
+    font-family: var(--font-family-jacques_francois); font-size: var (--font-size-xs);
+    
+    font-weight: 400;
+    
+    font-style: normal;
+    }
+    .kyivtypesans-heavy--normal-dove-gray-36px {
+    color: var(--dove-gray);
+    font-weight: 400;
+    font-style: normal;
+    font-family: var(--font-family-kyivtype_sans-heavy-); 
+    font-size: var(--font-size-m);
+    }
+
+    .aleo-normal-black-64px {
+    
+    color: var(--black);
+    
+    font-family: var(--font-family-aleo); font-size: var(--font-size-xx1);
+    
+    font-weight: 400;
+    
+    font-style: normal;
+    }
+    .kurale-normal-white-36px {
+    color: var(--white);
+    font-family: var(--font-family-kurale); 
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+    }
+    
+    
+    .kurale-normal-white-48px {
+    
+    font-family: var (--font-family-kurale);
+    
+    font-size: var (--font-size-1);
+    
+    font-weight: 400;
+    
+    font-style: normal;
+    }
+    .kurale-normal-dove-gray-36px {
+    
+    color: var(--dove-gray);
+    
+    font-family: var(--font-family-kurale); font-size: var(--font-size-m);
+    
+    font-weight: 400;
+    
+    font-style: normal;
+}
+    .lateef-normal-black-71-3px {
+    
+    color: var(--black);
+    
+    font-family: var(--font-family-lateef); font-size: var(--font-size-xxx1);
+    
+    font-weight: 400;
+    
+    font-style: normal;
+    
+    }

@@ -1,0 +1,465 @@
+@import url("https://fonts.googleapis.com/css?family=Kurale:400|Jacques+Francois:480|Karma:700|Inria+Sans:488|Lateef:4801 Aleo:488");
+
+.home-page {
+
+    align-items: flex-end;
+    flex-direction: column;
+
+    background-color: var(--white);
+
+    border: 1px none;
+
+    display: flex;
+
+    height: 1975px;
+
+    overflow: hidden;
+
+    width: 1340px;
+}
+
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+
+}
+
+.overlap-group1 {
+    height: 811px;
+    margin-right: -52px;
+    margin-top: 44px;
+    position: relative;
+    width: 1440px;
+}
+
+.ellipse-1 {
+    height: 480px;
+    left: 443px;
+    position: absolute;
+    top: 208px;
+    width: 480px;
+
+}
+
+.image-12-1 {
+
+    height: 375px;
+
+    left: 525px;
+
+    position: absolute;
+
+    top: 304px;
+
+    width: 315px;
+}
+
+.rectangle-4 {
+    background-color: var(--black);
+    height: 242px;
+    left: 0;
+    position: absolute;
+    top: 569px;
+    width: 1405px;
+}
+
+
+.send-us-email {
+
+    left: 68px;
+
+    letter-spacing: 0;
+
+    position: absolute;
+
+    top: 713px;
+
+    width: 234px;
+
+}
+
+.text-3 {
+    color: var (--black);
+    font-weight: 400;
+    left: 482px;
+    font-size: 70px;
+    font-family: var(--font-family-lateef);
+    font-weight: 400;
+    left: 482px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 401px;
+}
+
+.contact-us-1 {
+
+    left: 68px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 657px;
+    width: 254px;
+
+}
+
+.vector-2 {
+    left: 0px;
+    position: absolute;
+    top: 200px;
+    width: 1405px;
+}
+
+.about {
+    left: 68px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 602px;
+    width: 132px;
+
+}
+
+.overlap-group2 {
+    height: 1120px;
+    position: relative;
+    width: 1335px;
+
+}
+
+.menu {
+
+    left: 744px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 29px;
+    width: 65px;
+
+}
+
+.overlap-group {
+
+    height: 1120px;
+
+    left: 0;
+
+    position: absolute;
+
+    top: 0;
+
+    width: 1285px;
+
+}
+
+.valign-text-middle {
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+
+}
+
+.find-you-durga-puja-destiny {
+
+    color: rgb(0, 0, 145);
+
+    font-family: var(--font-family-karma);
+
+    font-size: 50px;
+
+    font-weight: 700;
+
+    height: 119px;
+
+    left: 30px;
+
+    letter-spacing: 0;
+    line-height: 55.3px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 6.91px 6.91px #acacacbf;
+    top: 206px;
+    width: 537px;
+
+}
+
+.place {
+
+    color: var(--black);
+
+    font-family: var (--font-family-kurale);
+
+    font-size: 35.3px;
+    font-weight: 400;
+
+    left: 310px;
+
+    letter-spacing: 0;
+
+    position: absolute;
+
+    text-align: center;
+
+    top: 373px;
+    width: 169px;
+
+}
+
+.image-12 {
+
+    height: 69px;
+    left: 6px;
+    mix-blend-mode: multiply;
+    object-fit: cover;
+    position: absolute;
+    width: 120px;
+    top: 0;
+
+}
+
+.rectangle {
+
+    height: 450px;
+
+    left: 21px;
+
+    object-fit: cover;
+    position: absolute;
+    top: 93px;
+    width: 1264px;
+
+}
+
+.text-2 {
+
+    color: rgb(0, 0, 145);
+    font-size: 65px;
+    font-family: var(--font-family-kurale);
+    font-weight: 250px;
+    left: 140px;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 7px 7px #a8a8a8bf;
+    width: 338px;
+    top: 74px;
+}
+
+.rectangle-6 {
+
+    background-color:
+
+        #ffc5cc;
+
+    border: 1px none;
+
+    border-radius: 40px;
+
+    box-shadow: 0px 10px 7px #a4a4a448;
+    cursor: pointer;
+
+    height: 65px;
+
+    left: 300px;
+
+    position: absolute;
+
+    top: 362px;
+
+    width: 189px;
+}
+
+.rectangle-1 {
+
+    background-color: var(--romance);
+
+    border: 1px none;
+
+    border-radius: 50px;
+
+    box-shadow: 0px 15px 10px 5px #86868659;
+
+    height: 258px;
+
+    left: 443px;
+
+    position: absolute;
+
+    top: 728px;
+
+    width: 320px;
+
+}
+
+.top-pujas-are-rated {
+    color: #9e9e9e;
+    font-family: var(--font-family-jacques_francois);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    left: 450px;
+    letter-spacing: 0;
+    position: absolute;
+
+    top: 630px;
+
+    width: 598px;
+}
+
+.image-1 {
+
+    height: 433px;
+
+    left: 9px;
+    object-fit: cover;
+    position: absolute;
+    top: 660px;
+    width: 432px;
+
+}
+
+.image-13 {
+    height: 511px;
+    left: 667px;
+    object-fit: cover;
+    position: absolute;
+    top: 67px;
+    width: 512px;
+}
+
+.south {
+
+    color: var(--black);
+    font-size: 35px;
+    font-weight: 400;
+    left: 96px;
+    font-family: var (--font-family-kurale);
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 373px;
+    width: 148px;
+
+}
+
+.top-puja-lists {
+    color: var(--black);
+    font-family: var(--font-family-inria_sans);
+    font-size: var(--font-size-xx1);
+    font-weight: 400;
+    left: 489px;
+    position: absolute;
+    top: 558px;
+
+    letter-spacing: 0;
+
+    width: 514px;
+}
+
+.image-2 {
+
+    height: 308px;
+
+    left: 9px;
+
+    object-fit: cover;
+    position: absolute;
+    top: 744px;
+    width: 322px;
+
+}
+
+.image-11 {
+
+    height: 490px;
+
+    left: 0;
+
+    object-fit: cover;
+    position: absolute;
+    top: 630px;
+    width: 508px;
+}
+
+.rectangle-5 {
+    border: 0.77px none;
+    border-radius: 30.86px;
+    box-shadow: 0px 7.71px 5.4px #a4a4a440;
+    cursor: pointer;
+    background-color: #fdffbf;
+    left: 76px;
+    position: absolute;
+    top: 364px;
+    width: 189px;
+    height: 65px;
+}
+
+.rectangle-8 {
+
+    height: 283px;
+    left: 1165px;
+    position: absolute;
+    top: 718px;
+    width: 300px;
+}
+
+.place-1 {
+    left: 620px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 29px;
+    width: 89px;
+}
+
+.rectangle-7 {
+
+    background-color: var(--romance);
+    border: 1px none;
+    border-radius: 50px;
+    box-shadow: 0px 15px 10px 5px #86868659;
+    height: 258px;
+    top: 718px;
+    width: 320px;
+    left: 809px;
+    position: absolute;
+
+}
+
+.about-us {
+
+    left: 877px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 30px;
+    width: 110px;
+
+}
+
+.text-1 {
+
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(180deg, rgb(238, 9, 121) 0%, rgb(255, 106, 0) 100%);
+    background-clip: text;
+    color: transparent;
+    font-family: var(--font-family-kurale);
+    font-size: var(--font-size-1);
+    font-weight: 400;
+    left: 129px;
+    letter-spacing: 0;
+    position: absolute;
+    top: 10px;
+    width: 332px;
+}
+
+.contact-us {
+
+    left: 1054px;
+    position: absolute;
+
+    width: 125px;
+
+    letter-spacing: 0;
+
+    top: 29px;
+
+}
